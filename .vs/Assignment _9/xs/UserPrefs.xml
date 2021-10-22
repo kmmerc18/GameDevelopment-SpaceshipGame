@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3897FF54-011C-8572-C0D1-C54789595E73}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Ship.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Ship.cs" Line="38" Column="43" />
+      <File FileName="Assets/Scripts/EnemyShips.cs" Line="25" Column="67" />
+      <File FileName="Assets/Scripts/LaserShot.cs" Line="46" Column="81" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment _9" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Ship.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bff3c68c-6c65-4e09-b652-3d37c88dd300" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
